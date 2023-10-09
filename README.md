@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Analytics related projects and Visualizations
+🔭 I’m currently working on Analytics related projects and Visualizations
 - 🌱 I’m currently pursuing an MS in Business Analytics from Golden Gate University, San Francisco
 - 👯 I’m looking to collaborate on Data Science Projects or Kaggle competitions
 - 🤔 I’m looking for help with ...
