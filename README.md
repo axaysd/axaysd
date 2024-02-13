@@ -1,7 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Analytics related projects and Visualizations
+- 🔭 I’m currently working on projects related to AI/ML, Analytics.
 - 🌱 I’m currently pursuing an MS in Business Analytics from Golden Gate University, San Francisco
-- 👯 I’m looking to collaborate on Data Science Projects or Kaggle competitions
 - 📫 How to reach me: linkedin.com/in/axaysd
 
 
