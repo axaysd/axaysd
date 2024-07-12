@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on projects related to AI/ML, Analytics.
+- 🔭 I’m currently working on projects related to Data Analytics and AI/ML.
 - 🌱 I’m currently pursuing an MS in Business Analytics from Golden Gate University, San Francisco
 - 📫 How to reach me: linkedin.com/in/axaysd
 
